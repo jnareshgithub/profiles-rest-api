@@ -1,0 +1,5 @@
+cd workspace
+cd profiles-rest-api
+vagrant ssh
+cd /vagrant
+source ~/env/bin/activate
